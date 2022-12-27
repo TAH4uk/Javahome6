@@ -2,8 +2,6 @@ import java.util.Map;
 import java.util.Random;
 
 public class Notebook implements Comparable<Notebook> {
-    public static void main(String[] args) {
-    }
 
     public static Random r;
     private int id;
